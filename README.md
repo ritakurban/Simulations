@@ -1,2 +1,2 @@
 # Simulations
-This folder contains simulations I've written as a part of my course work or just for fun in Python.
+I Learned how to apply advanced decision techniques such as real options, Monte Carlo simulation, network concepts from graph theory, probability theory and statistical physics to analyze and predict the behavior of social, economic and transportation networks. Examples include project portfolio management, pharmaceutical drug development, oil and gas investment decisions as well as philanthropic portfolio decisions requiring high-stake tradeoffs in highly uncertain environments.
